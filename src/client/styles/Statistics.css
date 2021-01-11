@@ -1,0 +1,29 @@
+h2{
+    font-family: Apple Chancery, cursive;
+    font-size: 22px;
+    font-weight: bold;
+    letter-spacing: 1.4px;
+    text-align: center;
+    margin: 10px;
+    color:#c1e19f;
+}
+
+.StatisticsTable {
+    font-family: Georgia, serif;
+    margin-bottom: 30px;
+    width: 300px;
+    height: 150px;
+    text-align: left;
+    border-spacing:2px;
+    background: #542c2c;
+    border-radius:5px;
+}
+  
+.StatisticsTable td{
+    background: #5b83a2;
+    padding:0px 10px;
+    font-weight:550;
+    font-size: 15px;
+    border-radius:3px;
+}
+  

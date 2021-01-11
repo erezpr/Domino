@@ -1,0 +1,10 @@
+.PlayerLayout {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    border-top: 2px solid black;
+    text-align: center;
+    padding: 10px;
+    padding-left: 300px;
+    padding-right: 300px;
+}
